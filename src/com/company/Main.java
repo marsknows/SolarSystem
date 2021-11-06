@@ -10,8 +10,8 @@ public class Main {
         andromeda.moon=4;
 
         SunFeature sonSun = new SunFeature();
-        sonSun.color="blue";
-        sonSun.heat="9251990";
+        sonSun.color="green";
+        sonSun.heat=9251990;
         sonSun.temp="4071995 ºF";
         sonSun.radius="19901995";
     }
