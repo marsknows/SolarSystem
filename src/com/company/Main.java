@@ -19,6 +19,10 @@ public class Main {
         mars1.size=92590;
         mars1.color="red";
         mars1.type="terrestrial";
-        
+
+        Venus venus1 = new Venus();
+        venus1.color="pink";
+        venus1.type="vapor";
+
     }
 }
