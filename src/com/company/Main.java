@@ -14,5 +14,9 @@ public class Main {
         sonSun.heat=9251990;
         sonSun.temp="4071995 ºF";
         sonSun.radius="19901995";
+
+        Venus venus1 = new Venus();
+        venus1.color="pink";
+        venus1.type="vapor";
     }
 }
