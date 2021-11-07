@@ -24,5 +24,9 @@ public class Main {
         venus1.color="pink";
         venus1.type="vapor";
 
+        Moon2 moon2 = new Moon2();
+        moon2.color="white";
+        moon2.name="Lunar";
+
     }
 }
