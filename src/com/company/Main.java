@@ -15,6 +15,11 @@ public class Main {
         sonSun.temp="4071995 ºF";
         sonSun.radius="19901995";
 
+
+        Venus venus1 = new Venus();
+        venus1.color="pink";
+        venus1.type="vapor";
+      
         Mars mars1 = new Mars();
         mars1.size=92590;
         mars1.color="red";
