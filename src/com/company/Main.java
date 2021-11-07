@@ -14,5 +14,11 @@ public class Main {
         sonSun.heat=9251990;
         sonSun.temp="4071995 ºF";
         sonSun.radius="19901995";
+
+        Mars mars1 = new Mars();
+        mars1.size=92590;
+        mars1.color="red";
+        mars1.type="terrestrial";
+        
     }
 }
