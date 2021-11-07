@@ -34,6 +34,10 @@ public class Main {
         moon2.color="white";
         moon2.name="Lunar";
 
+        Earth earth = new Earth();
+        earth.color="blue/green";
+        earth.type="terrestrial";
+        earth.pop=70000000;
 
     }
 }
