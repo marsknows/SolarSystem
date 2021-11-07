@@ -23,11 +23,17 @@ public class Main {
         Venus venus1 = new Venus();
         venus1.color="pink";
         venus1.type="vapor";
-
+        
         Moon moon1 = new Moon();
         moon1.color="white";
         moon1.size=2021;
         moon1.name="Luna";
         moon1.rings=5;
+
+        Moon2 moon2 = new Moon2();
+        moon2.color="white";
+        moon2.name="Lunar";
+
+
     }
 }
