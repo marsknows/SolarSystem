@@ -28,5 +28,6 @@ public class Main {
         moon1.color="white";
         moon1.size=2021;
         moon1.name="Luna";
+        moon1.rings=5;
     }
 }
