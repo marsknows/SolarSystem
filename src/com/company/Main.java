@@ -38,6 +38,6 @@ public class Main {
         earth.color="blue/green";
         earth.type="terrestrial";
         earth.pop=70000000;
-
+        
     }
 }
