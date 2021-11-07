@@ -29,5 +29,10 @@ public class Main {
         moon1.size=2021;
         moon1.name="Luna";
         moon1.rings=5;
+
+        Earth earth = new Earth();
+        earth.color="blue/green";
+        earth.type="terrestrial";
+        earth.pop=70000000;
     }
 }
